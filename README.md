@@ -1,26 +1,26 @@
-GMS - SorR Mod Manager (Batch Script version)
+<b>GMS - SorR Mod Manager (Batch Script version)</b>
 
 GMS is a non-profit freeware developed by daniel2221/Dan Chavyn to apply mods created by fans in the game SorR.
 All game titles and characters names are property of their respective creators.
 GMS uses a program to print color text called CECHO by Thomas Polaert. More information can be found here: https://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files
 
-INSTRUCTIONS:
+<b>INSTRUCTIONS:</b>
 
 Before running the program for the first time, undo the mods, leaving the files by default in SORR.
 The program (GMS.bat) and its add-ons (scripts folder) must be in the SORR root folder.
 The "icons" folder contains files that you can use to customize a shortcut to the program.
 
-LEVEL MODS
+<b>LEVEL MODS:</b>
 
 All mod add-ons should follow the following path:
 
-Enemies palettes:	  mod\games\mod name\palettes\enemies
+Enemies palettes:	  |mod\games\mod name\palettes\enemies
 
-Players palettes:	  mod\games\mod name\palettes\chars
+Players palettes:	  |mod\games\mod name\palettes\chars
 
-Players backup palettes:  mod\games\mod name\palettes\backup_chars
+Players backup palettes:  |mod\games\mod name\palettes\backup_chars
 
-Sound/graphics exchanges: mod\games\mod name\data
+Sound/graphics exchanges: |mod\games\mod name\data
 
 
 Supported level mods (must have the same name in the folders):
@@ -57,49 +57,31 @@ V4 Remake v1.4
 Vendetta Dead End City Stories v1.0
 Way of the Warrior
 
-Mods can be downloaded by links in the program. Preferably through the second link (https://drive.google.com/drive/folders/1Ow2v27RJxT_iSZYVwyUpf1d_AOcc7Yx0).
+Mods can be downloaded by links in the program. Preferably through the second link in downloads section: (https://drive.google.com/drive/folders/1Ow2v27RJxT_iSZYVwyUpf1d_AOcc7Yx0).
 
-NOTES: In the SOR collections mods, to access the 8-bit sounds option, paste the "Convert to 8-Bit" folder into the "data" folder in the mod directory or in the root "data" folder.
+NOTE: In the SOR collections mods, to access the 8-bit sounds option, paste the "Convert to 8-Bit" folder into the "data" folder in the mod directory or in the root "data" folder.
 
-CHARS
+<b>CHARS</b>
 
 All chars must be inside the directory "mod\chars"
 
 Supported chars:
 
-Char name		|	Directories
+Char name		|	DirectorY
 ------------------------|-----------------------------------------------
 Blaze BK Mobile		|	mod\chars\BKM Blaze
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 Axel BK Mobile		|	mod\chars\BKM Axel
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 Maz			|	mod\chars\Maz
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 Vegeta			|	mod\chars\Vegeta
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 Geese			|	mod\chars\Geese
 Super Shiva		|	mod\chars\Super_shiva
 Chun-Li			|	mod\chars\Chun-li
 Abadede			|	mod\chars\Abadede
 Yamato			|	mod\chars\Yamato
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 SoR1 Axel Classic	|	mod\chars\SoR1 Axel Classic
-			|		   |---->palettes
-			|			    |------>chars
-			|			    |------>backup_chars
 
 
-THEMES/SCREENPACKS
+<b>THEMES/SCREENPACKS:</b>
 
 All themes must be inside the directory "mod\themes"
 
@@ -113,7 +95,7 @@ Bare Knuckle III	    |   mod\themes\bare knuckle iii
 
 
 
-WARNINGS:
+<b>WARNINGS:</b>
 
 * If you find blank text files in the SORR subfolders, do not delete them, as they are created by the program to identify mod installations.
 * Do not delete the folder of an installed mod. Uninstall it first and then delete your folder.
