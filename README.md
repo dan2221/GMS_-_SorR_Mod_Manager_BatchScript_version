@@ -14,14 +14,11 @@ The "icons" folder contains files that you can use to customize a shortcut to th
 
 All mod add-ons should follow the following path:
 
-Enemies palettes:	  |mod\games\mod name\palettes\enemies
-
-Players palettes:	  |mod\games\mod name\palettes\chars
-
-Players backup palettes:  |mod\games\mod name\palettes\backup_chars
-
-Sound/graphics exchanges: |mod\games\mod name\data
-
+Mod parts | Directory
+Enemies palettes:	       | "mod\games\mod name\palettes\enemies"<br>
+Players palettes:	       | "mod\games\mod name\palettes\chars"<br>
+Players backup palettes: | "mod\games\mod name\palettes\backup_chars"<br>
+Sound/graphics exchanges:| "mod\games\mod name\data"<br>
 
 Supported level mods (must have the same name in the folders):
 
@@ -67,7 +64,7 @@ All chars must be inside the directory "mod\chars"
 
 Supported chars:
 
-Char name		|	DirectorY
+Char name		|	Directory
 ------------------------|-----------------------------------------------
 Blaze BK Mobile		|	mod\chars\BKM Blaze
 Axel BK Mobile		|	mod\chars\BKM Axel
