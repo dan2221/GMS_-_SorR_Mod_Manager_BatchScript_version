@@ -1,0 +1,1 @@
+if not exist "palettes\sorr_chars" (%tchar%)
