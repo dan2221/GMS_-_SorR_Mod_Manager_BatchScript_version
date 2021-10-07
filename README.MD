@@ -26,37 +26,37 @@ Sound/graphics exchanges| mod\games\mod name\data
 
 Supported level mods (must have the same name in the folders):
 
-Additional Rage v1.1<br>
-Battle for Rio<br>
-Battle for Rio 2<br>
-Brutal Justice v1.0<br>
-Burning Fight Prototype<br>
-DC Infiltrators<br>
-DOA<br>
-Double Dragon 3 (Arcade)<br>
-H.U.N.T.E.R MotY<br>
-Nightsweeper v1.4<br>
-Knuckle Bash Remake<br>
-Never Back Down<br>
-Night Slashers<br>
-Rage Rise of The Black Dragon<br>
-Rescue Metro City<br>
-Rudra 2029 Pilot<br>
-Rushing Beat Remake FE v2.1<br>
-SoRR v4 Bonus - Rudra's Story<br>
-SoR1 Collection for V5 Vecta<br>
-SoR2 Collection for V5 U<br>
-SoR3 Ultimate Mod for V5<br>
-SoR3 - Adam's Story Extended<br>
-SoR Ice / SoR Silver<br>
-SoR2 Flame / SoR2 Gold<br>
-Street Fighter II<br>
-Streets of Gotham<br>
-Streets of Rage V - demo 2017<br>
-Urban Reign<br>
-V4 Remake v1.4<br>
-Vendetta Dead End City Stories v1.0<br>
-Way of the Warrior<br>
+* Additional Rage v1.1<br>
+* Battle for Rio<br>
+* Battle for Rio 2<br>
+* Brutal Justice v1.0<br>
+* Burning Fight Prototype<br>
+* DC Infiltrators<br>
+* DOA<br>
+* Double Dragon 3 (Arcade)<br>
+* H.U.N.T.E.R MotY<br>
+* Nightsweeper v1.4<br>
+* Knuckle Bash Remake<br>
+* Never Back Down<br>
+* Night Slashers<br>
+* Rage Rise of The Black Dragon<br>
+* Rescue Metro City<br>
+* Rudra 2029 Pilot<br>
+* Rushing Beat Remake FE v2.1<br>
+* SoRR v4 Bonus - Rudra's Story<br>
+* SoR1 Collection for V5 Vecta<br>
+* SoR2 Collection for V5 U<br>
+* SoR3 Ultimate Mod for V5<br>
+* SoR3 - Adam's Story Extended<br>
+* SoR Ice / SoR Silver<br>
+* SoR2 Flame / SoR2 Gold<br>
+* Street Fighter II<br>
+* Streets of Gotham<br>
+* Streets of Rage V - demo 2017<br>
+* Urban Reign<br>
+* V4 Remake v1.4<br>
+* Vendetta Dead End City Stories v1.0<br>
+* Way of the Warrior<br>
 
 Mods can be downloaded by links in the program. Preferably through the second link in downloads section: https://drive.google.com/drive/folders/1Ow2v27RJxT_iSZYVwyUpf1d_AOcc7Yx0
 
