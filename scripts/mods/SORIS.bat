@@ -19,6 +19,7 @@ if "%installed_mod%" == "%Choosed_Mod%" goto inicio
 
 call scripts\install.bat
 
+:: -------------- HOME -----------------------------------------------------
 :inicio
 if exist "mod\games\%proj%\End Credits.wmv" (set cred=1) else (set cred=0)
 mode con: cols=38 lines=14

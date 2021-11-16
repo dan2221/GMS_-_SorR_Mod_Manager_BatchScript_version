@@ -5,6 +5,7 @@ if "%installed_mod%" == "%Choosed_Mod%" goto inicio
 call scripts\traducao.bat 1
 call scripts\install.bat
 
+:: -------------- HOME ----------------------------
 :inicio
 mode con: cols=46 lines=13
 call scripts\traducao.bat 0

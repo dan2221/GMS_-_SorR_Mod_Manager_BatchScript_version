@@ -39,7 +39,7 @@ if "%enemies%" == "OFF" (
 
 call scripts\install.bat
 
-rem --------------------- INICIO -------------------------------------
+:: -------------- HOME --------------------------------------------
 :inicio
 call:check_enemies
 mode con: cols=45 lines=16

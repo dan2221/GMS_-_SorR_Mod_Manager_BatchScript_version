@@ -49,6 +49,7 @@ if %mmods% equ 1 (
 	move mod\music\hurry.ogg	"mod\games\%proj%\8.ogg"
 )
 
+:: -------------- HOME -----------------------------------------
 :inicio
 mode con: cols=64 lines=20
 call scripts\sorr_music.bat

@@ -60,6 +60,7 @@ for %%G in (
 	) 
 )
 
+:: -------------- HOME ------------------------------------------------
 :inicio
 mode con: cols=40 lines=17
 call scripts\sorr_music.bat

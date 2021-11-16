@@ -13,6 +13,7 @@ if %mmods% equ 1 (
 	move mod\music\Whiskey.ogg	"mod\games\%proj%\18.ogg"
 )
 
+:: -------------- HOME ------------------------------
 :inicio
 mode con: cols=39 lines=12
 call scripts\sorr_music.bat

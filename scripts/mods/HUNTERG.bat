@@ -50,6 +50,7 @@ if %mmods% equ 1 (
 	) do call:music %%G	"on"
 )
 
+:: -------------- HOME ------------------------------
 :inicio
 mode con: cols=52 lines=18
 

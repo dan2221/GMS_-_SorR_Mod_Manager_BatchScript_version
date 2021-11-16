@@ -40,6 +40,7 @@ if %mmods% equ 1 (
 	) do call:music %%G "on loop"
 )
 
+:: -------------- HOME -------------------------------------
 :inicio
 mode con: cols=41 lines=13
 call scripts\sorr_music.bat

@@ -28,6 +28,7 @@ if %mmods% equ 1 (
 	move mod\music\ffcdta.ogg	"mod\games\%proj%\11.ogg"
 )
 
+:: -------------- HOME -----------------------------------------
 :inicio
 mode con: cols=35 lines=13
 call scripts\sorr_music.bat

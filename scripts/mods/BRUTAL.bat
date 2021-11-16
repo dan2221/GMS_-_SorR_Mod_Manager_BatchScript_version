@@ -14,6 +14,7 @@ if %mmods% equ 1 (
 	move mod\music\anna.ogg	"mod\games\%proj%\39.ogg"
 )
 
+:: -------------- HOME ------------------------------
 :inicio
 mode con: cols=46 lines=15
 call scripts\traducao.bat 0

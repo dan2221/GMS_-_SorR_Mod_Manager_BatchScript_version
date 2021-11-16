@@ -32,6 +32,7 @@ if %mmods% equ (
 	) do call scripts\music.bat "on"
 )
 
+:: -------------- HOME ------------------------------
 :inicio
 mode con: cols=39 lines=12
 call scripts\sorr_music.bat

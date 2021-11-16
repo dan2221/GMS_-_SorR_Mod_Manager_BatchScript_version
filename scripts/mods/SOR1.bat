@@ -40,6 +40,7 @@ For %%G IN (
 	"normal"
 ) do move "mod\games\%proj%\data\%%G"	data
 
+:: -------------- HOME ----------------------------------------------
 :inicio
 mode con: cols=38 lines=17
 if exist "data\Convert to 8-Bit" (ren "data\Convert to 8-Bit" 8bits)

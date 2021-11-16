@@ -71,6 +71,7 @@ if %mmods% equ 1 (
 	move mod\music\unknown2.ogg	mod\games\DOA\34.ogg
 )
 
+:: -------------- HOME ------------------------------
 :inicio
 mode con: cols=40 lines=13
 call scripts\sorr_music.bat

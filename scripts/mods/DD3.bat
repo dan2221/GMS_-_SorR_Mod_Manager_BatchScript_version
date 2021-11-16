@@ -5,8 +5,7 @@ if "%installed_mod%" == "%Choosed_Mod%" goto inicio
 
 call scripts\install.bat
 
-rem ----------------------------------------------------------------
-
+:: -------------- HOME -----------------------------------------------
 :inicio
 mode con: cols=42 lines=11
 
