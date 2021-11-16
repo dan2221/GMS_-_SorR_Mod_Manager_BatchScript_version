@@ -18,7 +18,6 @@ if exist "mod\games\SoR Silver\script\[ice]stage1a.ogg" (
 if "%installed_mod%" == "%Choosed_Mod%" goto inicio
 
 call scripts\install.bat
-set SORIS=1
 
 :inicio
 if exist "mod\games\%proj%\End Credits.wmv" (set cred=1) else (set cred=0)

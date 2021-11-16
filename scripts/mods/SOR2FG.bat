@@ -15,13 +15,10 @@ if exist "mod\games\SoR2 Gold\script\[Flame]stage1a.ogg" (
 	)
 )
 
-set Sdir="mod\games\%proj%\data"
-
 if "%installed_mod%" == "%Choosed_Mod%" goto inicio
 
-
 call scripts\install.bat
-set SOR2FG=1
+
 
 :inicio
 mode con: cols=38 lines=13

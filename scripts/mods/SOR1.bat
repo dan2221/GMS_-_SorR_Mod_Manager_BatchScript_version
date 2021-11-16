@@ -47,7 +47,7 @@ if not exist "data\8bits" (set som=---) else (
 	if exist "data\normal.txt" (set som=OFF) else (
 		if exist "data\8bit.txt" (set som=ON) else (
 			echo. 2>data\normal.txt
-			set som=OFF)
+			set som=OFF
 		)
 	)
 )
