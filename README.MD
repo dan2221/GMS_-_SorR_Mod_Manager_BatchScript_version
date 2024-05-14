@@ -1,5 +1,6 @@
 <b>GMS - SorR Mod Manager (Batch Script version)</b>
 
+![alt text](https://i.servimg.com/u/f78/20/17/77/92/gms_ne10.png)
 
 GMS is a non-profit freeware developed by daniel2221/Dan Chavyn to apply mods created by fans in the game SorR.<br>
 All game titles and characters names are property of their respective creators.<br>
