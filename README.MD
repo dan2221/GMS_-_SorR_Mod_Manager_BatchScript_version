@@ -1,8 +1,9 @@
 <b>GMS - SorR Mod Manager (Batch Script version)</b>
 
+GMS is a non-profit freeware developed by daniel2221/Dan Chavyn to apply mods created by fans in the game SorR.<br>
+
 ![alt text](https://i.servimg.com/u/f78/20/17/77/92/gms_ne10.png)
 
-GMS is a non-profit freeware developed by daniel2221/Dan Chavyn to apply mods created by fans in the game SorR.<br>
 All game titles and characters names are property of their respective creators.<br>
 GMS uses a program to print color text called CECHO by Thomas Polaert. More information can be found here: https://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files
 
